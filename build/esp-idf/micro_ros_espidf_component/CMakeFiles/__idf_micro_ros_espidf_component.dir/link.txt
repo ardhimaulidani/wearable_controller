@@ -1,0 +1,2 @@
+/home/helos/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libmicro_ros_espidf_component.a  CMakeFiles/__idf_micro_ros_espidf_component.dir/network_interfaces/uros_ethernet_netif.c.obj CMakeFiles/__idf_micro_ros_espidf_component.dir/network_interfaces/uros_wlan_netif.c.obj
+/home/helos/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libmicro_ros_espidf_component.a

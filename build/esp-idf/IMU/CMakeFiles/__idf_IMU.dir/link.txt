@@ -1,0 +1,2 @@
+/home/helos/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libIMU.a  CMakeFiles/__idf_IMU.dir/IMU.c.obj
+/home/helos/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libIMU.a
