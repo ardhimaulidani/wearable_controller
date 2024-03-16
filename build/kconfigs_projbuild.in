@@ -1,6 +1,0 @@
-source "/home/helos/esp/esp-idf/components/app_update/Kconfig.projbuild"
-source "/home/helos/esp/esp-idf/components/bootloader/Kconfig.projbuild"
-source "/home/helos/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "/home/helos/esp/esp-idf/wearable/components/micro_ros_espidf_component/Kconfig.projbuild"
-source "/home/helos/esp/esp-idf/components/partition_table/Kconfig.projbuild"
-source "/home/helos/esp/esp-idf/wearable/main/Kconfig.projbuild"
