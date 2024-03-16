@@ -2,7 +2,7 @@ Wearable Controller
 ==============================
 Wearable Controller using ESP32 with FreeRTOS and MicroROS.
 Although previously used for drone control in SAFMC 2022 competition, this device is capable to control anything with 6 DoF motion sensing input.
-This wearable controller is also equipped with 3 channel of analog input and 2 buttons for extra control.
+This wearable controller is also equipped with 2 push buttons, 3 channel of analog input, and haptic feedback for intuitive control.
 
 ![wearable](https://github.com/ardhimaulidani/SAFMC_Wearable/assets/62376702/5faacb21-9c05-45bb-86f6-6163b41ba1f6)
 
